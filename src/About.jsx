@@ -17,10 +17,7 @@ function About() {
             CP Speedrun is an app to help YOU increase your rating on Codeforces! It lists the 15 most solved questions for a particular rating - do these and you will surely advance to the next level. Simply enter your profile name, pick a rating 100-200 points above your current rating, and start solving the questions. These questions have been solved by all top coders, and are clearly crucial in improving in CP.
             </p>
             <p>
-              Users don't have to worry about the privacy of the data. iNotes
-              uses bcryptjs to securely store the passwords of each user. With
-              no data limit iNotes is the best notes storing app accross the
-              world.
+              Simple and effective Way to improve your Coding Skills. 
             </p>
           </div>
 
